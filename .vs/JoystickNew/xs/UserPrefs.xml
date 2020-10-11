@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D1799D17-F493-274D-4314-8E7CCA60AEB3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveScript.cs">
+    <Files>
+      <File FileName="Assets/Joystick.cs" Line="51" Column="30" />
+      <File FileName="Assets/MoveScript.cs" Line="8" Column="32" />
+      <File FileName="Assets/JoyButton.cs" Line="16" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JoystickNew" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MoveScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dff42973-d218-4d7f-a5f7-7f344696da42" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
