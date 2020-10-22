@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MoveScript : MonoBehaviour
 {
-    public float speedMove=5;
-    public float jumpForce = 10;
+    public float speedMove=30;
+    public float jumpForce = 20;
     private Vector3 moveVector;
 
     private Joystick joystick;
